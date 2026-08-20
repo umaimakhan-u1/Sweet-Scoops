@@ -1120,4 +1120,6 @@ body.modal-open .order-modal {
         right: 15px;
         bottom: 15px;
     }
+}.vanilla-image {
+    object-position: center 85% !important;
 }
